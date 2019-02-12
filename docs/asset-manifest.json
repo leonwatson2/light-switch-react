@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.6643f59f.chunk.css",
-  "main.js": "/static/js/main.c8eb1b8a.chunk.js",
-  "main.js.map": "/static/js/main.c8eb1b8a.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.8fef2fe0.chunk.js": "/static/js/2.8fef2fe0.chunk.js",
-  "static/js/2.8fef2fe0.chunk.js.map": "/static/js/2.8fef2fe0.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.d8dac94885139f106c5f36e93e224c74.js": "/precache-manifest.d8dac94885139f106c5f36e93e224c74.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.6643f59f.chunk.css.map": "/static/css/main.6643f59f.chunk.css.map"
+  "main.css": "/light-switch-react/static/css/main.6643f59f.chunk.css",
+  "main.js": "/light-switch-react/static/js/main.c8eb1b8a.chunk.js",
+  "main.js.map": "/light-switch-react/static/js/main.c8eb1b8a.chunk.js.map",
+  "runtime~main.js": "/light-switch-react/static/js/runtime~main.66cc98dc.js",
+  "runtime~main.js.map": "/light-switch-react/static/js/runtime~main.66cc98dc.js.map",
+  "static/js/2.8fef2fe0.chunk.js": "/light-switch-react/static/js/2.8fef2fe0.chunk.js",
+  "static/js/2.8fef2fe0.chunk.js.map": "/light-switch-react/static/js/2.8fef2fe0.chunk.js.map",
+  "index.html": "/light-switch-react/index.html",
+  "precache-manifest.391b89550666354b4ea1d3cb7d166be6.js": "/light-switch-react/precache-manifest.391b89550666354b4ea1d3cb7d166be6.js",
+  "service-worker.js": "/light-switch-react/service-worker.js",
+  "static/css/main.6643f59f.chunk.css.map": "/light-switch-react/static/css/main.6643f59f.chunk.css.map"
 }

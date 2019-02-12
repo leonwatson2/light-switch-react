@@ -1,4 +1,5 @@
 {
+  "homepage": "https://vlw0052.github.io/light-switch-react",
   "proxy":"http://localhost:3001",
   "name": "gtn-test",
   "version": "0.1.0",
